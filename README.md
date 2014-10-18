@@ -3,11 +3,11 @@
 
 ##Overview
 
--Cover how to work in **open source**
+* Cover how to work in **open source**
 
--cover the GitHub flow
+* cover the GitHub flow
 
-    -learn all the details
+    * learn all the details
     
 visit [github](https://github.com)
 
